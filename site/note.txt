@@ -1,0 +1,12 @@
+HTML - Hypertext Markup Language
+
+HYPERTEXT 
+MARKUP 
+LANGUAGE
+
+HTML 
+w3c - 
+
+HTML - structure
+CSS - style 
+JAVASCRIPT - behavior
