@@ -1,0 +1,32 @@
+#p1 {
+  background-color: purple;
+}
+
+.p2 {
+  background-color: green;
+}
+
+body {
+  color: orange;
+}
+
+p {
+  color: yellow;
+  background-color: black;
+}
+
+a {
+  text-decoration: overline;
+}
+
+.container {
+  width: 500px;
+  margin: 20px;
+  border: 5px solid green;
+  padding: 10px;
+  background-color: orange;
+  opacity: 1;
+  background-image: url("dmslayer.png");
+  background-size: 100px;
+  background-repeat: no-repeat;
+}
